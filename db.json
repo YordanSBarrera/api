@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "aasd",
+      "description": "asdasd",
+      "id": 1
+    },
+    {
+      "title": "aasd",
+      "description": "asdasd",
+      "id": 2
+    },
+    {
+      "title": "Buen Proyecto",
+      "description": "Comienzos a prueba...",
+      "id": 3
+    }
+  ]
+}
